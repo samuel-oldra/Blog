@@ -1,0 +1,1 @@
+![alt text](https://bitbucket.org/samuel-oldra/exemplo-projeto-django-3/raw/52ec2e269786a5dbdacdee943967b1a34622bb96/README_IMGS/admin.png)
