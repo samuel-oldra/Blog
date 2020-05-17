@@ -1,1 +1,3 @@
 ![alt text](https://bitbucket.org/samuel-oldra/exemplo-projeto-django-3/raw/52ec2e269786a5dbdacdee943967b1a34622bb96/README_IMGS/admin.png)
+![alt text](https://bitbucket.org/samuel-oldra/exemplo-projeto-django-3/raw/b71984105392cbe0ad62852d7d1d08cd9e0884ab/README_IMGS/QuerySet_all_get_create_filter.png)
+![alt text](https://bitbucket.org/samuel-oldra/exemplo-projeto-django-3/raw/b71984105392cbe0ad62852d7d1d08cd9e0884ab/README_IMGS/QuerySet_filter_order_by.png)
