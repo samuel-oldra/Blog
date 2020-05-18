@@ -1,9 +1,14 @@
 <html>
 <head>
-    <title>Olá blog</title>
+    <title>Olá blog (pg 99)</title>
 </head>
 <body>
-<p>Está funcionando!</p>
-<p>Pg. 94</p>
+{% for post in posts %}
+    <div>
+        <p>publicado em: {{ post.published_date }}</p>
+        <h1><a href="">{{ post.title }}</a></h1>
+        <p>{{ post.text|linebreaksbr }}</p>
+    </div>
+{% endfor %}
 </body>
 </html>
