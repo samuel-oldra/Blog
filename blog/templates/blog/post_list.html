@@ -1,14 +1,13 @@
-<html>
-<head>
-    <title>Olá blog (pg 99)</title>
-</head>
-<body>
+{% extends 'blog/base.html' %}
+
+{% block content %}
 {% for post in posts %}
-    <div>
-        <p>publicado em: {{ post.published_date }}</p>
-        <h1><a href="">{{ post.title }}</a></h1>
-        <p>{{ post.text|linebreaksbr }}</p>
+<div class="post">
+    <div class="date">
+        {{ post.published_date }}
     </div>
+    <h1><a href="">{{ post.title }}</a></h1>
+    <p>{{ post.text|linebreaksbr }}</p>
+</div>
 {% endfor %}
-</body>
-</html>
+{% endblock %}
