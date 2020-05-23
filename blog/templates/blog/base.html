@@ -1,7 +1,7 @@
 {% load static %}
 <html>
 <head>
-    <title>Django Blog (pg 116)</title>
+    <title>Django Blog (pg 122)</title>
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="{% static 'css/blog.css' %}">
@@ -9,6 +9,7 @@
 </head>
 <body>
 <div class="page-header">
+    <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
     <h1><a href="/">Django Blog</a></h1>
 </div>
 <div class="content container">
