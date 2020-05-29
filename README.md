@@ -5,7 +5,7 @@
 ![alt text](https://raw.githubusercontent.com/samuel-oldra/Projeto-Django-3/main/README_IMGS/QuerySet_filter_order_by.png)
 # Cadastro
 ![alt text](https://raw.githubusercontent.com/samuel-oldra/Projeto-Django-3/main/README_IMGS/CreateEdit.png)
-# Vizualização
+# Visualização
 ![alt text](https://raw.githubusercontent.com/samuel-oldra/Projeto-Django-3/main/README_IMGS/Detail.png)
 # Listagem
 ![alt text](https://raw.githubusercontent.com/samuel-oldra/Projeto-Django-3/main/README_IMGS/List.png)
