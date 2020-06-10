@@ -1,12 +1,12 @@
-# Aplicação usando Python e Django 4
+# Aplicação usando Python e Django 4.1
 
 ## Django Blog
 
 Desenvolvida uma aplicação de blog.
 
 ## Tecnologias e práticas utilizadas
-- Python
-- Django 4
+- Python 3.8
+- Django 4.1
 - SQLite
 - Arquitetura MVT
 
@@ -24,8 +24,7 @@ Desenvolvida uma aplicação de blog.
 ### pip
 ```
 pip list --outdate
-python -m pip install --upgrade pip
-python -m pip install --upgrade setuptools
+pip install --upgrade pip setuptools Django ...
 ```
 
 ### virtualenv (windows)
