@@ -49,7 +49,7 @@ env\Scripts\deactivate.bat
 
 ### Criar super user (Django Administration)
 ```
-(env) python manage.py createsuperuser
+(env) python manage.py createsuperuser (admin/admin)
 ```
 
 ### Criar apps
